@@ -1,4 +1,35 @@
-/* Common Share Style*/
-body{
-    font-family: 'Merriweather', serif;
+/* Common share style*/
+
+
+
+
+/* header related image */
+.banner {
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url('../resources/Banner.png');
+    border-radius: 16px;
+    background-position: center;
+
+}
+
+.banner-greeting {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 233px 344px 344px ;
+}
+
+.banner-title {
+    color: #FFF;
+    text-align:center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    
 }
